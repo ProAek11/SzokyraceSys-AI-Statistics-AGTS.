@@ -1,0 +1,20 @@
+numpy
+time
+pandas
+plotly
+plotly.express
+streamlit
+<<<<<<< Updated upstream
+yfinance
+yahoo-finance
+yahoo-finance
+fix-yahoo-finance
+scipy #iconda env using.
+=======
+pandas
+time
+matplotlib
+ipywidgets
+jupyterlab
+jupyter notebook
+>>>>>>> Stashed changes
