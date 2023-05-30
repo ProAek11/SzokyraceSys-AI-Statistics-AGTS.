@@ -4,3 +4,4 @@ https://id.heroku.com/login
 https://dashboard.ngrok.com/api
 http://www.ultrahook.com/
 https://rapidapi.com/hub
+https://docs.marketdata.app/api
