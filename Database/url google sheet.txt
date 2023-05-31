@@ -1,0 +1,6 @@
+#Google Sheet name: Statistics - Analysis Economics
+#Sheet: 'When Fed Hold Rate'
+#Lock file: success.
+https://docs.google.com/spreadsheets/d/e/2PACX-1vRqAChj8B9e7lHNDINxhFDTo0XMZljjBOanWyQWJid8F1FidBIWY-xJKQYQI4-9PTLinpX_ph3v7LUh/pub?gid=0&single=true&output=csv
+url = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRqAChj8B9e7lHNDINxhFDTo0XMZljjBOanWyQWJid8F1FidBIWY-xJKQYQI4-9PTLinpX_ph3v7LUh/pub?gid=0&single=true&output=csv'
+
