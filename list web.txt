@@ -5,3 +5,4 @@ https://dashboard.ngrok.com/api
 http://www.ultrahook.com/
 https://rapidapi.com/hub
 https://docs.marketdata.app/api
+https://www.kaggle.com/settings/account?verifyPhone=1&verifyPhoneReturnUrl=https%3A%2F%2Fwww.kaggle.com%2F
