@@ -18,5 +18,19 @@ https://zeromq.org/languages/python/
 #Searching |=> fix intergest of js, or to visualization dashboard & webhook, link connect web-app. orthers.
            web-app. list: - streamlit, jupyter dash, neptune.ai, bootstrap, socket, codesandbox.io
            webhook list: - ngrok, ultrahook, heroku, pipedream, webhook, socket
+https://virtual-finance-api.readthedocs.io/en/latest/index.html
+https://aiolux.com/insights/anomalies?symbol=BTCUSD
+https://zeromq.org/languages/python/
+https://www.fastforex.io/
+https://developer.oanda.com/rest-live-v20/development-guide/
+https://polygon.io/currencies
+https://interactivebrokers.github.io/cpwebapi/quickstart
+https://www.interactivebrokers.com.au/en/index.php?f=40022
+https://www.developer.saxo/openapi/referencedocs
+https://www.postman.com/
+https://www.ig.com/uk/trading-platforms/trading-apis/how-to-use-ig-api
+https://goodmoneyguide.com/trading/algo-trading-brokers/
+https://investingintheweb.com/brokers/best-api-brokers/
+https://developers.notion.com/docs/create-a-notion-integration
 
 
