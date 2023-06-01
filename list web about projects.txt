@@ -34,5 +34,6 @@ https://goodmoneyguide.com/trading/algo-trading-brokers/
 https://investingintheweb.com/brokers/best-api-brokers/
 https://developers.notion.com/docs/create-a-notion-integration
 https://glitch.com/
+https://stackoverflow.com/questions/63107594/how-to-deal-with-multi-level-column-names-downloaded-with-yfinance/63107801#63107801
 
 
