@@ -1,4 +1,5 @@
 Empyiel
+https://virtual-finance-api.readthedocs.io/en/latest/index.html
 https://aiolux.com/insights/anomalies?symbol=BTCUSD
 https://zeromq.org/languages/python/
 https://www.fastforex.io/
