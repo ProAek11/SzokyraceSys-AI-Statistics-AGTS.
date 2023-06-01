@@ -10,11 +10,12 @@ https://www.myfxbook.com/forex-market/currencies/XAUUSD-historical-data
 https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e
 https://xeus-sqlite.readthedocs.io/en/latest/
 https://socket.io/get-started/chat
+https://codesandbox.io/dashboard/recent
 #Searching |=> Include & Import Database Symbol & Instrumentals Price Historical sup Interval Timeframe to Real-Time.
 #Searching |=> chart tradingview or chart plot to intergrit python or jupyter visualization to dashboard interfaces.
 #Searching |=> fix module-packages: mt5 metatrader to project env. def function.
 #Searching |=> fix intergest of js, or to visualization dashboard & webhook, link connect web-app. orthers.
-           web-app. list: - streamlit, jupyter dash, neptune.ai, bootstrap, socket
+           web-app. list: - streamlit, jupyter dash, neptune.ai, bootstrap, socket, codesandbox.io
            webhook list: - ngrok, ultrahook, heroku, pipedream, webhook, socket
 
 
