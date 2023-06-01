@@ -12,7 +12,7 @@ https://xeus-sqlite.readthedocs.io/en/latest/
 #Searching |=> chart tradingview or chart plot to intergrit python or jupyter visualization to dashboard interfaces.
 #Searching |=> fix module-packages: mt5 metatrader to project env. def function.
 #Searching |=> fix intergest of js, or to visualization dashboard & webhook, link connect web-app. orthers.
-           web-app. list: - streamlit, jupyter dash, neptune.ai, 
+           web-app. list: - streamlit, jupyter dash, neptune.ai, bootstrap,
            webhook list: - ngrok, ultrahook, heroku, pipedream, webhook
 
 
