@@ -22,4 +22,7 @@ jupyterlab
 jupyter notebook
 tradingview-ta
 jupyter-dash
+mt5
+metatrader
+
 
