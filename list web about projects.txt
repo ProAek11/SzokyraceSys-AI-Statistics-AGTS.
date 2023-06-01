@@ -29,6 +29,7 @@ https://www.interactivebrokers.com.au/en/index.php?f=40022
 https://www.developer.saxo/openapi/referencedocs
 https://www.postman.com/
 https://www.ig.com/uk/trading-platforms/trading-apis/how-to-use-ig-api
+https://labs.ig.com/?_ga=2.238663433.869007171.1685650807-1160414673.1685650807&_gl=1*lh926h*_ga*MTE2MDQxNDY3My4xNjg1NjUwODA3*_ga_NWPWP1ZQE9*MTY4NTY1NDQwMi4yLjEuMTY4NTY1NDQyMC4wLjAuMA..
 https://goodmoneyguide.com/trading/algo-trading-brokers/
 https://investingintheweb.com/brokers/best-api-brokers/
 https://developers.notion.com/docs/create-a-notion-integration
