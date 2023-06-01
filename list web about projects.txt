@@ -8,4 +8,5 @@ https://docs.marketdata.app/api
 https://www.kaggle.com/settings/account?verifyPhone=1&verifyPhoneReturnUrl=https%3A%2F%2Fwww.kaggle.com%2F
 https://www.myfxbook.com/forex-market/currencies/XAUUSD-historical-data
 https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e
+https://xeus-sqlite.readthedocs.io/en/latest/getting_started.html#creating-a-new-database
 
