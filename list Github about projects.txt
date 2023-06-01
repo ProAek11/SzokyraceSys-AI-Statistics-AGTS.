@@ -1,11 +1,13 @@
 Empyiel
 https://zeromq.org/languages/python/
 https://www.fastforex.io/
-https://developer.oanda.com/
+https://developer.oanda.com/rest-live-v20/development-guide/
 https://polygon.io/currencies
 https://www.interactivebrokers.hk/en/home.php
 https://www.developer.saxo/openapi/referencedocs
 https://www.postman.com/
 https://www.ig.com/uk/trading-platforms/trading-apis/how-to-use-ig-api
+https://goodmoneyguide.com/trading/algo-trading-brokers/
+https://investingintheweb.com/brokers/best-api-brokers/
 
 
