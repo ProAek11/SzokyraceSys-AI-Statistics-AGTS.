@@ -6,6 +6,7 @@ pandas==1.5.3
 numpy
 time
 pandas
+pandas-datareader
 matplotlib
 ipywidgets
 plotly
