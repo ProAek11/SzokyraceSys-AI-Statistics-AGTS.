@@ -7,3 +7,5 @@ https://www.interactivebrokers.hk/en/home.php
 https://www.developer.saxo/openapi/referencedocs
 https://www.postman.com/
 https://www.ig.com/uk/trading-platforms/trading-apis/how-to-use-ig-api
+https://www.developer.saxo/openapi/referencedocs
+
