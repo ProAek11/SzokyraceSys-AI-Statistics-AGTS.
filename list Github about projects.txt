@@ -1,4 +1,5 @@
 Empyiel
+https://aiolux.com/insights/anomalies?symbol=BTCUSD
 https://zeromq.org/languages/python/
 https://www.fastforex.io/
 https://developer.oanda.com/rest-live-v20/development-guide/
