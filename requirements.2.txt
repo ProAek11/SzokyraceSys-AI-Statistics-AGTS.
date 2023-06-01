@@ -23,5 +23,5 @@ mt5
 metatrader
 pytrader
 tradingview-ta
-
+pyzmq
 
