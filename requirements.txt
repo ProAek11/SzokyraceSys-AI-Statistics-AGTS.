@@ -1,20 +1,4 @@
 numpy
 time
 pandas
-plotly
-plotly.express
-streamlit
-yfinance
-yahoo-finance
-yahoo-finance
-fix-yahoo-finance
-scipy #iconda env using.
-pandas
-time
-matplotlib
-ipywidgets
-jupyterlab
-jupyter notebook
-tradingview-ta
-jupyter-dash
 
