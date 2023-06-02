@@ -14,7 +14,7 @@ plotly.express
 streamlit
 yfinance
 yahoo-finance
-yahoo-finance
+yahoofinancials
 fix-yahoo-finance
 scipy #iconda env using.
 jupyterlab
