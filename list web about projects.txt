@@ -43,4 +43,5 @@ https://www.fxreplay.com/
 https://deriv.com/dmt5-trading-signals/#signal-subscriber/
 https://finsemble.com/contact/
 https://www.econdb.com/country/US/interest/
+https://towardsdatascience.com/python-how-to-get-live-market-data-less-than-0-1-second-lag-c85ee280ed93
 
