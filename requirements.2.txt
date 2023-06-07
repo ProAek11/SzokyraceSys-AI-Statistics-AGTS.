@@ -28,5 +28,6 @@ pyzmq
 lean
 -U vectorbt
 backtesting
+backtrader
 
 
