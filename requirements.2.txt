@@ -27,5 +27,6 @@ tradingview-ta
 pyzmq
 lean
 -U vectorbt
+backtesting
 
 
