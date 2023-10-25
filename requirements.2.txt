@@ -30,5 +30,6 @@ lean
 backtesting
 backtrader
 statsforecast
+plotly-resampler
 
 
