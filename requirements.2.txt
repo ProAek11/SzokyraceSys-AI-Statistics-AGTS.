@@ -29,5 +29,6 @@ lean
 -U vectorbt
 backtesting
 backtrader
+statsforecast
 
 
