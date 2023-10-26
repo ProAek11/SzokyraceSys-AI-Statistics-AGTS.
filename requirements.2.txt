@@ -33,6 +33,9 @@ statsforecast
 plotly-resampler
 python -m pip install statsmodels
 python -m pip install prophet
+Ipython	8.5.0	pip3	Provides a rich architecture for interactive computing
+IPykernel	6.15.2	pip3	Provides the IPython kernel for Jupyter.
+IPywidgets	8.0.2	pip3	Interactive HTML widgets for Jupyter notebooks and the IPython kernel
 
 
 
