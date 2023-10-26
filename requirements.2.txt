@@ -35,7 +35,21 @@ python -m pip install statsmodels
 python -m pip install prophet
 Ipython	8.5.0	pip3	Provides a rich architecture for interactive computing
 IPykernel	6.15.2	pip3	Provides the IPython kernel for Jupyter.
+tqdm	4.64.1	pip3	Fast, extensible progress meter
+gdown	4.5.1	pip3	Google drive direct download of big files
+SciPy	1.9.1	pip3	Fundamental algorithms for scientific computing in Python
 IPywidgets	8.0.2	pip3	Interactive HTML widgets for Jupyter notebooks and the IPython kernel
+NVidia Driver	515.65.01	pre-installed	Enable Nvidia GPUs. Latest version as of VM creation date
+CUDA	11.7.1	Install script	Nvidia A100 GPUs require CUDA 11+ to work, so 10.x is not suitable
+CUDA toolkit	11.7.1	Apt	Needed for nvcc command for cuDNN
+cuDNN	8.5.0.*-1+cuda11.7	Ubuntu repo	Nvidia GPU deep learning library
+Scikit-learn	1.1.2	pip3	Widely used ML library for data science, generally for smaller data or models
+Scikit-image	0.19.3	pip3	Collection of algorithms for image processing
+TensorFlow	2.9.2	pip3	Most widely used deep learning library, alongside PyTorch
+PyTorch	1.12.1	pip3	Most widely used deep learning library, alongside TensorFlow
+Datasets	2.4.0	pip3	A supporting library for NLP use cases and the Transformers library brought to you by HuggingFace
+XGBoost	1.6.2	pip3	An optimized distributed gradient boosting library
+Sentence Transformers	2.2.2	pip3	A ML framework for sentence, paragraph and image embeddings
 
 
 
