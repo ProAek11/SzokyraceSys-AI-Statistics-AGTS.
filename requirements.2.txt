@@ -49,7 +49,9 @@ TensorFlow	2.9.2	pip3	Most widely used deep learning library, alongside PyTorch
 PyTorch	1.12.1	pip3	Most widely used deep learning library, alongside TensorFlow
 Datasets	2.4.0	pip3	A supporting library for NLP use cases and the Transformers library brought to you by HuggingFace
 XGBoost	1.6.2	pip3	An optimized distributed gradient boosting library
-Sentence Transformers	2.2.2	pip3	A ML framework for sentence, paragraph and image embeddings
+Sentence Transformers	2.2.2	pip3	A ML framework for sentence, paragraph and image embeddings.
+!pip install quantstats --upgrade --no-cache-dir
+!pip install tabulate
 
 
 
